@@ -65,4 +65,4 @@ plt.show()
 ![WhatsApp Image 2024-09-27 at 09 35 40_b57ca5cd](https://github.com/user-attachments/assets/ad0741cb-7515-4e43-994b-a4b42446084b)
 
 ### RESULT:
-The program was successfully completed based on the Holt Winters Method model.
+The program was successfully completed based on the Holt Winters Method model
