@@ -1,5 +1,5 @@
 #### Developed by Thiyagarajan A
-#### Reference no: 212222240110
+#### Register no: 212222240110
 #### Date: 
 # Ex.No: 6               HOLT WINTERS METHOD
 ### AIM:
